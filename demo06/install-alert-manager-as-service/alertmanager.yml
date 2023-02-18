@@ -9,6 +9,6 @@ route:
 receivers:
 - name: 'slack'
   slack_configs:
-  - channel: "#devops"
+  - channel: "#prometheus"
     send_resolved: true
-    api_url: 'https://hooks.slack.com/services/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'
+    api_url: 'https://hooks.slack.com/services/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'
